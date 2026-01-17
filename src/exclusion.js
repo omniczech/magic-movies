@@ -17,6 +17,15 @@ const exclusions = [
   "The Wind in the Willows",
   "The Zero Imperative",
   "The Evil Dead",
+  "Star Trek: The Motion Picture",
+  "Star Trek II: The Wrath of Khan",
+  "Star Trek III: The Search for Spock",
+  "Star Trek IV: The Voyage Home",
+  "Star Trek V: The Final Frontier",
+  "Star Trek VI: The Undiscovered Country",
+  "Star Trek",
+  "Star Trek Into Darkness",
+  "For the Love of Spock",
 ];
 
 export default exclusions;
