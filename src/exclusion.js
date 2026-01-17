@@ -16,6 +16,7 @@ const exclusions = [
   "Absolutely Anything",
   "The Wind in the Willows",
   "The Zero Imperative",
+  "The Evil Dead",
 ];
 
 export default exclusions;
