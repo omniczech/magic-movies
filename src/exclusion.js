@@ -1,0 +1,21 @@
+const exclusions = [
+  "Jurassic Park",
+  "The Lost World: Jurassic Park",
+  "Jurassic World",
+  "Jurassic World: Fallen Kingdom",
+  "Monty Python and the Holy Grail",
+  "And Now for Something Completely Different",
+  "Monty Python's Life of Brian",
+  "Monty Python Live at the Hollywood Bowl",
+  "Monty Python's The Meaning of Life",
+  "The Crimson Permanent Assurance",
+  "A Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman",
+  "The Princess Bride",
+  "Monty Python Live (Mostly)",
+  "Child's Play",
+  "Absolutely Anything",
+  "The Wind in the Willows",
+  "The Zero Imperative",
+];
+
+export default exclusions;
