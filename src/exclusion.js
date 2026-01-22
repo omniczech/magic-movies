@@ -27,6 +27,9 @@ const exclusions = [
   "Star Trek Into Darkness",
   "For the Love of Spock",
   "Star Trek Generations",
+  "Star Trek: First Contact",
+  "Star Trek: Insurrection",
+  "Star Trek: Nemesis",
 ];
 
 export default exclusions;
